@@ -1,4 +1,4 @@
-Banner Aplikasi
+![Banner JobFinder](https://github.com/Job-Finder-C624-PS104/.github/blob/main/profile/banner-jobfinder.png)
 
 # Job Finder : Aplikasi website penyedia lowongan pekerjaan
 https://job-finder-beige.vercel.app/
