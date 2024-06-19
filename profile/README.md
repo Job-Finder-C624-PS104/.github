@@ -1,7 +1,7 @@
 Banner Aplikasi
 
 # Job Finder : Aplikasi website penyedia lowongan pekerjaan
-Link deploy web
+https://job-finder-beige.vercel.app/
 
 ## Member : Dicoding Capstone Team C624-PS104
 
